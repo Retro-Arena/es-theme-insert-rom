@@ -163,7 +163,7 @@
 			<text name="md_players">
 				<zIndex>100</zIndex>
 			</text>	 	  
-			<datetime name="md_releasedate"></datetime>
+			<datetime name="md_releasedate">
 				<zIndex>35</zIndex>
 			</datetime>
 			<image name="md_image">
